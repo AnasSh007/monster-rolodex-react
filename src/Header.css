@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Comforter&family=Indie+Flower&display=swap");
+.header {
+  width: 100%;
+  height: 40vh;
+  background-color: rgba(2, 0, 36, 1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+span {
+  font-family: "Comforter";
+  font-size: 3rem;
+  color: #0ccac4;
+}

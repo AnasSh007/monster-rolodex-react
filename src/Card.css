@@ -1,0 +1,12 @@
+.styles_card_box__2rsuO {
+  background: rgba(72, 177, 247, 0.25);
+  display: flex;
+  width: 250px;
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.5);
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 0.75em;
+  background-color: white;
+  box-shadow: 5px 5px 3px black;
+}
